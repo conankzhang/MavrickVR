@@ -1,0 +1,1 @@
+Because of how Perforce works, you need to CHECKOUT the Binaries folder for Unreal's Packaging process to work. MAKE SURE TO DO THAT BEFORE STARTING THE BUILD PROCESS.
